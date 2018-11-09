@@ -1,4 +1,4 @@
-	# Raytracer 
+# Raytracer 
 
 Dans ce projet, j'ai créé un lancer de rayon stochastique qui permet de synthétiser des images à partir d’une description d’un monde 3D. Ceci est fait en simulant le trajet des rayons lumineux qui finissent sur la lentille de la camèra.
 
