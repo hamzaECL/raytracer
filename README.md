@@ -31,7 +31,7 @@ Pour compiler le projet, il suffit de lancer la commande 'make' ou 'make raytrac
 # Screenshots 
 
 <p align="center">
-  <img src=screenshots/shot(5).png>
+  <img src=screenshots/shot(5).bmp>
   <img src=screenshots/shot(9).bmp>
   <img src=screenshots/shot(12).bmp>
   <img src=screenshots/shot(13).bmp>
