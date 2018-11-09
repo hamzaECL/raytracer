@@ -1,4 +1,4 @@
-# Raytracer 
+	# Raytracer 
 
 Dans ce projet, j'ai créé un lancer de rayon stochastique qui permet de synthétiser des images à partir d’une description d’un monde 3D. Ceci est fait en simulant le trajet des rayons lumineux qui finissent sur la lentille de la camèra.
 
@@ -30,8 +30,14 @@ Pour compiler le projet, il suffit de lancer la commande 'make' ou 'make raytrac
 	
 # Screenshots 
 
-![alt text](https://raw.githubusercontent.com/hamzaECL/raytraver/screenshots/shot(5).png)
-![alt text](https://raw.githubusercontent.com/hamzaECL/raytraver/screenshots/shot(11).png)
+<p align="center">
+  <img src=screenshots/shot (5).png>
+  <img src=screenshots/shot (9).png>
+  <img src=screenshots/shot (12).png>
+  <img src=screenshots/shot (13).png>
+  <img src=screenshots/shot (14).png>
+  <img src=screenshots/shot (15).png>
+</p>
 
 
 
